@@ -1,0 +1,5 @@
+if(EXISTS "/home/fffeelipe/Documents/classes 2024-1/SW development/HPC-SW-pipelining/build/tests[1]_tests.cmake")
+  include("/home/fffeelipe/Documents/classes 2024-1/SW development/HPC-SW-pipelining/build/tests[1]_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()

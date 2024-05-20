@@ -1,0 +1,9 @@
+Problem1.BalancedNum 9 0.000383966
+Problem2.IsIsogram 6 0.000564544
+Problem3.PossiblyPerfect 16 0.000195744
+Problem4.FindOdd 8 0.000398124
+Problem5.EncodeDecode 0 0
+Problem6.Bananas 0 0
+---
+Problem5.EncodeDecode
+Problem6.Bananas
